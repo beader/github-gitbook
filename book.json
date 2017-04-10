@@ -1,0 +1,10 @@
+
+{
+    "gitbook": "2.x.x",
+    "plugins": ["mathjax-update", "github", "-search"],
+    "pluginsConfig": {
+        "github": {
+            "url": "https://github.com/beader/github-gitbook"
+        }
+    }
+}
